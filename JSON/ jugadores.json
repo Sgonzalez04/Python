@@ -1,0 +1,14 @@
+{
+  "jugadores": [
+    {
+      "Nombre": "1",
+      "Edad": "1",
+      "Peso": "1"
+    },
+    {
+      "Nombre": "2",
+      "Edad": "2",
+      "Peso": "2"
+    }
+  ]
+}

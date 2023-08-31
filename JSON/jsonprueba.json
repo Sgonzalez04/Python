@@ -1,0 +1,23 @@
+{
+  "clients": [
+    {
+      "first_name": "theodoric",
+      "last_name": "rivers",
+      "age": 36,
+      "amount": 1.11
+    },
+    {
+      "first_name": "Sergio",
+      "last_name": "Silva",
+      "age": 19,
+      "amount": 9.54
+    }
+  ],
+  "precios": [
+    {
+      "precio": 999,
+      "age": 19,
+      "amount": 4
+    }
+  ]
+}

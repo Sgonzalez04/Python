@@ -1,0 +1,7 @@
+def hanoii(n,A,B,C):
+    if (n==1):
+        print(A,"--->",C)
+    else:
+        hanoii(n-1,A,C,B),
+        hanoii(1,A,B,C),
+        hanoii(n-1,B,A,C)

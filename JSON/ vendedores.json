@@ -1,0 +1,52 @@
+{
+  "vendedores": [
+    {
+      "apellido": "Alvarez",
+      "identificacion": "1098345799",
+      "enero": 500000,
+      "febrero": 250000,
+      "marzo": 300000,
+      "abril": 600000,
+      "mayo": 470000,
+      "junio": 230000,
+      "julio": 340000,
+      "agosto": 250000
+    },
+    {
+      "apellido": "Bautista",
+      "identificacion": "1074145790",
+      "enero": 400000,
+      "febrero": 650000,
+      "marzo": 800000,
+      "abril": 200000,
+      "mayo": 870000,
+      "junio": 630000,
+      "julio": 540000,
+      "agosto": 300000
+    },
+    {
+      "apellido": "Corona",
+      "identificacion": "109852963",
+      "enero": 700000,
+      "febrero": 550000,
+      "marzo": 600000,
+      "abril": 200000,
+      "mayo": 570000,
+      "junio": 230000,
+      "julio": 440000,
+      "agosto": 200000
+    },
+    {
+      "apellido": "Zapata",
+      "identificacion": "1741852951",
+      "enero": 300000,
+      "febrero": 450000,
+      "marzo": 400000,
+      "abril": 100000,
+      "mayo": 570000,
+      "junio": 330000,
+      "julio": 740000,
+      "agosto": 350000
+    }
+  ]
+}

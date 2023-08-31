@@ -1,0 +1,43 @@
+{
+    "Departamentos": [
+        {
+            "idDep": 1,
+            "nomDepartamento": "Santander",
+            "Ciudades": [
+                {
+                    "idCiudad": 2,
+                    "nomCiudad": "Barrancabermeja",
+                    "imagen": "barranca.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                }
+            ]
+        },
+        {
+            "idDep": 2,
+            "nomDepartamento": "Cundinamarca",
+            "Ciudades": [
+                {
+                    "idCiudad": 3,
+                    "nomCiudad": "Bogotá",
+                    "imagen": "bogota.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                },
+                {
+                    "idCiudad": 4,
+                    "nomCiudad": "Cajicá",
+                    "imagen": "cajica.jpg",
+                    "coordenadas": {
+                        "lat": 4,
+                        "lon": 72
+                    }
+                }
+            ]
+        }
+    ]
+}

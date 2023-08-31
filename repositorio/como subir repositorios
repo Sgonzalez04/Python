@@ -1,0 +1,47 @@
+#:~$ cd Documents
+#:~/Documents$ cd sergio
+#:~/Documents/sergio$ cd listas
+#:~/Documents/sergio/listas$ ^C
+
+#nombra las listas que tenemos
+#:~/Documents/sergio/listas$ ls (linux)
+#:~/Documents/sergio/listas$ dir (Windows)
+#listas  listas.py
+
+#crear una carpeta oculta
+#:~/Documents/sergio/listas$ mkdir gitprueba
+
+#crear repositorio locar .git
+#~/Documents/sergio/listas$ git init
+#Initialized empty Git repository in /home/spukN01-070/Documents/sergio/listas/.git/
+
+#para volver se a la carpeta anterior se utiliza cd ..
+#~/Documents/sergio/listas$ cd ..
+#~/Documents/sergio$
+
+#abrir en la carpeta creada
+#~/Documents/sergio/listas$ code .
+
+#sirve para agregar
+#git add prueba.py
+
+#sirve para revisar si se puede almacenar en repositorio
+#git status
+
+#se agrega para saber guardar en archivo local
+#:~/Documents/sergio/listas/gitprueba$ git commit -m "modificacion de mi programa"
+#[master 490f098] modificacion de mi programa
+# 1 file changed, 2 insertions(+), 1 deletion(-)
+
+#git status verificar guardado bien
+#git status
+#On branch master
+#nothing to commit, working tree clean
+
+#como subir cosas a github
+
+#git config user.name "Sgonzalez04"
+##git config user.email "divixx32@gmail.com"
+#git remote add origin https://github.com/Sgonzalez04/Gitprueba.git #EL ORIGEN ES
+#git branch -M main
+#git push -u origin main #LO SUBE AL REPOSITORIO

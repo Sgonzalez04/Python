@@ -1,0 +1,13 @@
+Simulacro CICLO 1
+
+Elabore un programa Python para gestionar el CRUD del archivo de datos PetShopping.json con las siguientes funcionalidades:
+
+	1. Mostrar en pantalla todas las mascotas a la venta visualizando: Tipo, Raza, Precio y Servicios
+
+	2. Crear Nueva mascota con la posibilidad de múltiples ítems de Servicio
+
+	3. Mostrar los datos de Mascotas por Tipo elegido visualizando: Raza, Precio y Servicios
+estudiante
+	4. Actualizar los datos de una mascota consultada por índice (Mostrar el listado total y elegir por 	índice)
+
+	5. Eliminar una mascota de la tienda (Mostrar el listado total y elegir por índice)
